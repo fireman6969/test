@@ -1,0 +1,21 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "empty",
+    "deps": [],
+    "uuids": [
+        "59582581-bffe-490c-ba86-e92cefded447"
+    ],
+    "paths": {},
+    "scenes": {
+        "db://assets/empty/Loading.scene": "59582581-bffe-490c-ba86-e92cefded447"
+    },
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [],
+    "debug": true,
+    "extensionMap": {}
+}

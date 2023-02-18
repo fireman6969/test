@@ -1,0 +1,68 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "loading",
+    "deps": [
+        "main"
+    ],
+    "uuids": [
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@6c48a",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@6c48a",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0",
+        "7c457bbb-d2ad-4ac8-b012-ac119a80732b",
+        "7c457bbb-d2ad-4ac8-b012-ac119a80732b@6c48a",
+        "7c457bbb-d2ad-4ac8-b012-ac119a80732b@f9941",
+        "864d927a-a3d3-4932-a08d-9917b5c92b09",
+        "951249e0-9f16-456d-8b85-a6ca954da16b",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@6c48a",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941",
+        "c1c0d9a0-d652-4f5d-897c-971b61db16a9",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0"
+    ],
+    "paths": {
+        "7c457bbb-d2ad-4ac8-b012-ac119a80732b": [
+            "Texture/bgLobby",
+            "cc.ImageAsset"
+        ],
+        "7c457bbb-d2ad-4ac8-b012-ac119a80732b@6c48a": [
+            "Texture/bgLobby/texture",
+            "cc.Texture2D",
+            1
+        ],
+        "7c457bbb-d2ad-4ac8-b012-ac119a80732b@f9941": [
+            "Texture/bgLobby/spriteFrame",
+            "cc.SpriteFrame",
+            1
+        ],
+        "864d927a-a3d3-4932-a08d-9917b5c92b09": [
+            "BG",
+            "cc.Prefab"
+        ]
+    },
+    "scenes": {
+        "db://assets/loading/Loading.scene": "c1c0d9a0-d652-4f5d-897c-971b61db16a9"
+    },
+    "packs": {},
+    "versions": {
+        "import": [],
+        "native": []
+    },
+    "redirect": [
+        "6f01cf7f-81bf-4a7e-bd5d-0afc19696480@b47c0",
+        "0",
+        "7c457bbb-d2ad-4ac8-b012-ac119a80732b",
+        "0",
+        "7c457bbb-d2ad-4ac8-b012-ac119a80732b@6c48a",
+        "0",
+        "7c457bbb-d2ad-4ac8-b012-ac119a80732b@f9941",
+        "0",
+        "d032ac98-05e1-4090-88bb-eb640dcb5fc1@b47c0",
+        "0"
+    ],
+    "debug": true,
+    "extensionMap": {}
+}
