@@ -4,13 +4,22 @@
     "name": "empty",
     "deps": [],
     "uuids": [
+        "01b9d1e60",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@6c48a",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
         "59582581-bffe-490c-ba86-e92cefded447"
     ],
     "paths": {},
     "scenes": {
         "db://assets/empty/Loading.scene": "59582581-bffe-490c-ba86-e92cefded447"
     },
-    "packs": {},
+    "packs": {
+        "01b9d1e60": [
+            "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+            "59582581-bffe-490c-ba86-e92cefded447"
+        ]
+    },
     "versions": {
         "import": [],
         "native": []
