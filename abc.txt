@@ -1,4 +1,4 @@
 abc
 log 1
 log 2
-hehe
+hehe 1
